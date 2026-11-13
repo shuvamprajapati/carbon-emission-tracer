@@ -208,7 +208,6 @@ This project is built for educational and environmental awareness purposes. Feel
 - **Open-Meteo**: Providing free air quality data
 - **OpenStreetMap**: Geocoding services
 - **OpenRouter**: AI recommendation capabilities
-- **KIIT E-Cell**: Hackathon platform and community
 
 ## 📞 Support
 
